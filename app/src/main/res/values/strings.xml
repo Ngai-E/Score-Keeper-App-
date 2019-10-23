@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rugby Score Counter</string>
+    <string name="ml_reset_button">reset</string>
+    <string name="ml_try_points">Try points (+5)</string>
+    <string name="ml_conversation_points">Conversation Points (+2)</string>
+    <string name="ml_penalty_point">Penalty points (+3)</string>
+    <string name="ml_foul">Foul Play</string>
+    <string name="ml_drop_goal_point">Drop goal points (+3)</string>
+</resources>
